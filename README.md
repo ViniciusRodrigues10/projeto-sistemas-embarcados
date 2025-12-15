@@ -1,4 +1,13 @@
 # 🧩 Projeto Final – Sistemas Embarcados – 2025.2  
+
+# Equipe
+
+* Álisson Brener da Silva
+* Caio Lívio Leite Muniz Dantas
+* Vinícius Gonzaga Cavalcante Rodrigues
+* Vinícius Rodrigues Barros
+
+---
 ## Mesa Labirinto Controlada por Joystick (Com Gêmeo Digital no Grafana)
 
 Este repositório contém o desenvolvimento completo do projeto final da disciplina de **Sistemas Embarcados**, envolvendo o controle físico de uma mesa labirinto utilizando **ESP32**, **servomotores**, **joystick analógico** e **sensor MPU6050**, além da criação de um **gêmeo digital** visualizado no Grafana.
@@ -142,4 +151,3 @@ Incluindo:
 | Criatividade e diferenciais | **10** |
 
 ---
-
