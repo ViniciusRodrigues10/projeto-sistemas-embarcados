@@ -4,6 +4,7 @@
 
 * Álisson Brener da Silva
 * Caio Lívio Leite Muniz Dantas
+* Lucas do Nascimento Alves
 * Vinícius Gonzaga Cavalcante Rodrigues
 * Vinícius Rodrigues Barros
 
