@@ -9,7 +9,7 @@
 * Vinícius Rodrigues Barros
 
 ---
-## Video Demonstrativo do Projeto
+## 🎬 Video Demonstrativo do Projeto
 <https://youtu.be/tNxuLWGeTUs>
 
 ---
