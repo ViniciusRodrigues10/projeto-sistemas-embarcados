@@ -9,6 +9,10 @@
 * Vinícius Rodrigues Barros
 
 ---
+## Video Demonstrativo do Projeto
+<https://youtu.be/tNxuLWGeTUs>
+
+---
 ## Mesa Labirinto Controlada por Joystick (Com Gêmeo Digital no Grafana)
 
 Este repositório contém o desenvolvimento completo do projeto final da disciplina de **Sistemas Embarcados**, envolvendo o controle físico de uma mesa labirinto utilizando **ESP32**, **servomotores**, **joystick analógico** e **sensor MPU6050**, além da criação de um **gêmeo digital** visualizado no Grafana.
